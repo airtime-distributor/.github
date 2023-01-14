@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="./assets/img/logo/icon-green-white-round.png" align="center" alt="Tukumbushe-Logo" />
+ <img width="100px" src="./assets/img/logo/icon-green-white-round.png" align="center" alt="AMS-Logo" />
  <h2 align="center">Airtime Management System</h2>
  <p align="center">Wawe hewani muda wote.</p>
 
